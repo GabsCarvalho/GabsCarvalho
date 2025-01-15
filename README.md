@@ -19,6 +19,8 @@ Apaixonado por tecnologia, automação e inovação, estou sempre em busca de so
 
 <br>
 <br\>
+<br>
+<br\>
 
 # 📞 Entre em contato!
 
