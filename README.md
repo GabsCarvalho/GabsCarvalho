@@ -2,7 +2,7 @@
 
 **`Estudante de Eng. de Software`**
 
-Apaixonado por tecnologia, automação e inovação, estou sempre em busca de soluções eficientes para desafios complexos. Atualmente, desenvolvo habilidades em análise de dados, programação e otimização de processos com as ferramentas da Power Platform. Busco oportunidades para aprimorar meus conhecimentos na área de desenvolvimento, ao mesmo tempo que estudo e coloco em prática os conhecimentos adquiridos.
+Apaixonado por tecnologia, automação e inovação, estou sempre em busca de soluções eficientes para desafios complexos. Atualmente, desenvolvo habilidades em análise de dados, programação e otimização de processos com as ferramentas da Power Platform.
 
 🎯 Foco: Desenvolvimento e análise, com ênfase na criação de soluções tecnológicas.
 
@@ -11,10 +11,10 @@ Apaixonado por tecnologia, automação e inovação, estou sempre em busca de so
 
 # 🤖 Linguagens e Tecnologias
 <p>
-    <a> <img height="65em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"><a\>
-    <a> <img height="65em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"><a\>
-    <a> <img height="65em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"><a\>
-    <a> <img height="65em" src="https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/power-platform-icons/PowerPlatform_scalable.svg"><a\>
+    <a> <img height="50em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"><a\>
+    <a> <img height="50em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"><a\>
+    <a> <img height="50em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"><a\>
+    <a> <img height="50em" src="https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/power-platform-icons/PowerPlatform_scalable.svg"><a\>
 <p\>
 
 <br>
