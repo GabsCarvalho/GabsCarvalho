@@ -6,19 +6,14 @@ Apaixonado por tecnologia, automação e inovação, estou sempre em busca de so
 
 🎯 Foco: Desenvolvimento e análise, com ênfase na criação de soluções tecnológicas.
 
-<br>
-<br\>
-
 # 🤖 Linguagens e Tecnologias
 <p>
-    <a> <img height="50em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"><a\>
-    <a> <img height="50em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"><a\>
-    <a> <img height="50em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"><a\>
-    <a> <img height="50em" src="https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/power-platform-icons/PowerPlatform_scalable.svg"><a\>
+    <a> <img height="45em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png"><a\>
+    <a> <img height="45em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png"><a\>
+    <a> <img height="45em" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png"><a\>
+    <a> <img height="45em" src="https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/power-platform-icons/PowerPlatform_scalable.svg"><a\>
 <p\>
 
-<br>
-<br\>
 <br>
 <br\>
 
