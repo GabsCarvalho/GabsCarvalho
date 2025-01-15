@@ -26,6 +26,9 @@ Apaixonado por tecnologia, automação e inovação, estou sempre em busca de so
     <a> <img height="65em" src="https://raw.githubusercontent.com/tetiana-nizdropa/drawio-icons/master/power-platform-icons/PowerPlatform_scalable.svg"><a\>
 <p\>
 
+<br>
+<br\>
+
 ---
 
 # 📞 Entre em contato!
