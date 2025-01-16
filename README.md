@@ -2,7 +2,7 @@
 
 **`Estudante de Eng. de Software`**
 
-Apaixonado por tecnologia, automação e inovação, estou sempre em busca de soluções eficientes para desafios complexos. Atualmente, desenvolvo habilidades em análise de dados, programação e otimização de processos com as ferramentas da Power Platform.
+ Apaixonado por tecnologia, automação e inovação, estou sempre em busca de soluções eficientes para desafios complexos. Atualmente, desenvolvo habilidades em análise de dados, programação e otimização de processos com as ferramentas da Power Platform.
 
 🎯 Foco: Desenvolvimento e análise, com ênfase na criação de soluções tecnológicas.
 
