@@ -1,6 +1,6 @@
 # 👨‍💻 Gabriel Carvalho
 
-**`Estudante de Eng. de Software`** **`Desenvolvedor Júnior`**
+**`Estudante de Eng. de Software`** **`Desenvolvedor Front-End`**
 
  Apaixonado por tecnologia, automação e inovação, estou sempre em busca de soluções eficientes para desafios complexos. Atualmente, desenvolvo habilidades em análise de dados, programação e otimização de processos com as ferramentas da Power Platform.
 
